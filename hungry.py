@@ -1,6 +1,5 @@
 
 
-print('lo sabia lo sabia lo sabia. sabia que habias manipulado la libreta, near')
+print('no eres mas que un vulgar asesino')
 
-
-print('eres demasiado blando')
+print('y ese cuaderno es el mayor arma homicida de la historia')
